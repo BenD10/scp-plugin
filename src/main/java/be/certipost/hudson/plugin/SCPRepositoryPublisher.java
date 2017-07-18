@@ -109,7 +109,6 @@ public final class SCPRepositoryPublisher extends Notifier {
      * Returns the environment variables set for a node/slave. So you can use
      * them, as are in your environment
      *
-     * @param envVars
      * @return
      */
     public static EnvVars getEnvVars() {

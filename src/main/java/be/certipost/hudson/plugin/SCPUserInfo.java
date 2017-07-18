@@ -1,7 +1,7 @@
 package be.certipost.hudson.plugin;
 
 import com.jcraft.jsch.UserInfo;
-import java.util.logging.Logger;;
+import java.util.logging.Logger;
 
 
 public class SCPUserInfo implements UserInfo {
